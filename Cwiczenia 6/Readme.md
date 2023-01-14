@@ -1,3 +1,5 @@
+# Notebook nie renderuje się na githubie, proszę pobrać i uruchomić w colabie albo lokalnie
+
 # Cel
 
 Celem laboratorium jest przedstawienie algorymtów wykorzystywanych w systemach 
